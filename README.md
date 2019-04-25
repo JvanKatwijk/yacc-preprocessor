@@ -31,7 +31,7 @@ The software was described in the October 1983 issue
 of SIGPLAN notices, 18 (10) pp 12 .. 16.
 
 Anyway, it helped and we built a pretty decent Ada compiler
-used on the afore mentioned Geminix computer,
+used on the afore mentioned Geminix computer, 
 the development of which, by lack of
 funding and interest, went the way of many interesting projects and stopped.
 
@@ -43,6 +43,9 @@ It seems that the sources of this "extended YACC" are lost.
 I discovered the sources of the preprocessor -they were stored on floppy discs -
 and - after 35 years - it took only 3 or 4 minor changes to compile
 the sources and build another "prep".
+The sources of the Ada compiler - also on that set of floppy discs -
+cannot be compiled, due to its dependency
+on the code generator of the portable C compiler.
 
 ------------------------------------------------------------------------
 An example
