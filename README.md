@@ -33,8 +33,8 @@ the development of which, by lack of
 funding and interest, went the way of many interesting projects and stopped.
 
 Btw, during the development of the Ada compiler, we had as a student project
-extending the YACC version we used with the processing included as well
-as a pretty decent error recovery mechanism.
+extending the YACC version we used by including the preprocessing and inclusing
+a pretty decent error recovery mechanism.
 It seems that the sources of this "extended YACC" are lost.
 
 I discovered the sources of the preprocessor -they were stored on floppy discs -
