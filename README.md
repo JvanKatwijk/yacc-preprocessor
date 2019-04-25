@@ -27,6 +27,9 @@ a simple preprocessor was built, the sources are in this repository.
 Of course, evaluation is in a single pass, and parameter values should
 be known when used, so there are limitations.
 
+The software was described in the October 1983 issue
+of SIGPLAN notices, 18 (10) pp 12 .. 16.
+
 Anyway, it helped and we built a pretty decent Ada compiler
 used on the afore mentioned Geminix computer,
 the development of which, by lack of
